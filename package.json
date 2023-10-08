@@ -1,0 +1,19 @@
+{
+  "name": "weatherappnodejs",
+  "version": "1.0.0",
+  "description": "creating a weather nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thapa technical",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "requests": "^0.3.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
